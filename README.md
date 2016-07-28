@@ -6,8 +6,8 @@ Recent research includes:
 - High-Dimensional FPCA for Derivatives
 
 ### Affiliation
-Hilda Geiringer Postdoctoral Fellow of the Collaborative Research Center 649
 
+Hilda Geiringer Postdoctoral Fellow of the Collaborative Research Center 649  
 Postdoctoral Scholar at the Warren Center for Network and Data Sciences
 
 ### Contact

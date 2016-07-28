@@ -1,5 +1,3 @@
-### Dr. Maria Grith 
-
 ### Research Interests
 Financial Econometrics, Nonparametric Statistics, Functional Data Analysis, Theoretical and Empirical Asset Pricing, Graphical Models and Networks.
 

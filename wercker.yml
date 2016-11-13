@@ -1,0 +1,15 @@
+box: golang:latest
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.17"
+        flags: --buildDrafts=false -v
+        disable_pygments: true
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client liberror-perl
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: mariagrith.com
+        basedir: public

@@ -5,7 +5,7 @@
 date = "2016-11-12T00:00:00"
 draft = false
 
-title = "Recent Publications"
+title = "Publications, Working papers, Book Chapters"
 subtitle = ""
 widget = "publications"
 

@@ -19,11 +19,11 @@ googleAnalytics = ""
   avatar = "portrait.jpg"
   email = "maria.grith@hu-berlin.de"
   address = """
-  School of Business and Economics,<br>
-  Humboldt-Universität zu Berlin,<br>
-  Spandauer Str.1,<br>
-  D-10178 Berlin,
-  Germany.
+  Ladislaus von Bortkiewicz Chair of Statistics<br>
+  School of Business and Economics<br>
+  Humboldt-Universität zu Berlin<br>
+  Spandauer Str.1<br>
+  D-10178 Berlin, Germany
   """
 
   phone = "+49 (0) 30 2093-5625"
@@ -69,7 +69,7 @@ googleAnalytics = ""
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:maria.grith@hu-berlin.de"
-    
+
   # [[params.social]]
   #   icon = "twitter"
   #   icon_pack = "fa"
@@ -100,7 +100,7 @@ googleAnalytics = ""
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications"
   weight = 2
 

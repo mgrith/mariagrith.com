@@ -15,9 +15,7 @@ weight = 0
   interests = [
     "Financial Econometrics",
     "Nonparametric Statistics",
-    "Functional Data Analysis",
-    "Theoretical and Empirical Asset Pricing",
-    "Graphical Models and Networks"  
+    "Asset Pricing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,17 +24,17 @@ weight = 0
 
 [[education.courses]]
   course = "Doctorate in Economics"
-  institution = "Humboldt-Universität zu Berlin"
+  institution = "Humboldt University of Berlin"
   year = 2013
 
 [[education.courses]]
   course = "Master of Science"
-  institution = "Humboldt-Universität zu Berlin"
+  institution = "Humboldt University of Berlin"
   year = 2008
 
 [[education.courses]]
-  course = "Bachelor equivalent in Economics"
-  institution = "Universitatea de Vest din Timișoara"
+  course = "Bachelor in Economics"
+  institution = "West University of Timișoara"
   year = 2005
 
 +++
@@ -45,4 +43,6 @@ weight = 0
 
 I am a Hilda Geiringer postdoctoral fellow in statistics and economics at the Humboldt University of Berlin. Prior to this appointment, I was a Warren Center postdoctoral fellow at the University of Pennsylvania. I received my Ph.D. in Economics in 2013 from the Humboldt University of Berlin.
 
-My research interests lie at the intersection of econometrics, statistics and finance. My work is concerned with finding general ways to study the identification, estimation and inference in high-dimensional dynamic models. It relies on nonparametric and semiparametric methods, and covers topics in functional data and time series analysis. My recent research focuses on graphical models for time series, including nonstationary, nonlinear and latent variable processes. Applications lie mostly in the field of finance, where I am particularly interested in equilibrium and arbitrage-free pricing models, and asset markets.
+My work is concerned with developing statistical methods to study dynamic high-dimensional data settings and relies on nonparametric and semiparametric approaches, as well as graphical models. The applications of the research lie mostly in the field of finance, where I am particularly interested in asset pricing and systemic risk.
+
+I am on the job market and will be available for interviews during the ASSA meeting in Chicago between 6-8 January 2017. These are my [curriculum vitae](Curriculum Vitae - Grith.pdf) and [research statement](Research Statement - Grith.pdf).

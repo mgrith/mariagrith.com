@@ -8,10 +8,15 @@
 <section {{ if eq $pubs_selected_len 0 }}id="publications" {{ end }}class="home-section">
   <div class="container">
 
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+
+    <!-- Publications -->
+
     <div class="row">
       <div class="col-xs-12 col-md-4 section-heading">
-        <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
-        {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+        <!--<h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> -->
+        <!-- {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }} -->
+        <p>Peer-Reviewed Articles</p>
         {{ if gt $pubs_len $page.Params.count }}
         <p class="view-all">
           <a href="{{ $.Site.BaseURL }}publication/">
@@ -25,12 +30,81 @@
         {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
         {{ if $page.Params.detailed_list }}
-        {{ range first $page.Params.count (where $.Data.Pages "Type" "publication") }}
+
+        {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Publication") }}
         {{ partial "publication_li_detailed" . }}
         {{ end }}
         {{ else }}
         <ul class="fa-ul">
-          {{ range first $page.Params.count (where $.Data.Pages "Type" "publication") }}
+          {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Publication") }}
+          {{ partial "publication_li_simple" . }}
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Working Papers -->
+
+    <div class="row">
+      <div class="col-xs-12 col-md-4 section-heading">
+        <!--<h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> -->
+        <!-- {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }} -->
+        <p>Working Papers</p>
+        {{ if gt $pubs_len $page.Params.count }}
+        <p class="view-all">
+          <a href="{{ $.Site.BaseURL }}publication/">
+            {{ with $page.Params.str_all }}{{ . | markdownify }}{{ end }}
+            <i class="fa fa-angle-double-right"></i>
+          </a>
+        </p>
+        {{ end }}
+      </div>
+      <div class="col-xs-12 col-md-8">
+        {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+        {{ if $page.Params.detailed_list }}
+
+        {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Working Paper") }}
+        {{ partial "publication_li_detailed" . }}
+        {{ end }}
+        {{ else }}
+        <ul class="fa-ul">
+          {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Working Paper") }}
+          {{ partial "publication_li_simple" . }}
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Working Papers -->
+
+    <div class="row">
+      <div class="col-xs-12 col-md-4 section-heading">
+        <!--<h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> -->
+        <!-- {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }} -->
+        <p>Book Chapters</p>
+        {{ if gt $pubs_len $page.Params.count }}
+        <p class="view-all">
+          <a href="{{ $.Site.BaseURL }}publication/">
+            {{ with $page.Params.str_all }}{{ . | markdownify }}{{ end }}
+            <i class="fa fa-angle-double-right"></i>
+          </a>
+        </p>
+        {{ end }}
+      </div>
+      <div class="col-xs-12 col-md-8">
+        {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+        {{ if $page.Params.detailed_list }}
+
+        {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Book Chapter") }}
+        {{ partial "publication_li_detailed" . }}
+        {{ end }}
+        {{ else }}
+        <ul class="fa-ul">
+          {{ range (where (where $.Data.Pages "Type" "publication") ".Params.pub_type" "Book Chapter") }}
           {{ partial "publication_li_simple" . }}
           {{ end }}
         </ul>

@@ -11,7 +11,7 @@ weight = 0
 
 # List your academic interests.
 [interests]
-  title = "Interests"
+  title = "Research Interests"
   interests = [
     "Financial Econometrics",
     "Nonparametric Statistics",
@@ -23,7 +23,7 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "Doctorate in Economics"
+  course = "Ph.D. in Economics"
   institution = "Humboldt University of Berlin"
   year = 2013
 
@@ -45,4 +45,4 @@ I am a Hilda Geiringer postdoctoral fellow in statistics and economics at the Hu
 
 My work is concerned with developing statistical methods to study dynamic high-dimensional data settings and relies on nonparametric and semiparametric approaches, as well as graphical models. The applications of the research lie mostly in the field of finance, where I am particularly interested in asset pricing and systemic risk.
 
-I am on the job market and will be available for interviews during the ASSA meeting in Chicago between 6-8 January 2017. This is my [curriculum vitae](Curriculum Vitae - Grith.pdf).
+This is my [curriculum vitae](Curriculum Vitae - Grith.pdf).

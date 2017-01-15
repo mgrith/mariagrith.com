@@ -8,6 +8,7 @@ math = false
 publication = ""
 publication_short = ""
 selected = false
+pub_type = "Publication"
 url_pdf = ""
 url_code = ""
 url_dataset = ""

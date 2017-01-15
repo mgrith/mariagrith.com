@@ -21,14 +21,17 @@
 }
 
 html {
-  font-family: 'Merriweather', serif;
-  font-size: 16px;
+  /*font-family: 'Merriweather', serif;*/
+  /*font-family: 'Lato', sans-serif; */
+  /*font-family: 'Slabo', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
   color: rgba(0,0,0,0.8);
-  line-height: 1.65;
+  line-height: 1.5;
 }
 @media screen and (min-width: 58rem) {
   html {
-    font-size: 20px;
+    font-size: 14px;
   }
 }
 
@@ -61,35 +64,35 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-default {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
   margin-bottom: .5rem;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.50rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.50rem;
 }
 h3 {
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -125,7 +128,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   counter-increment: captions;
 }
 
@@ -178,11 +181,11 @@ blockquote p:last-child {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
+  padding: 1.25rem 0 1.25rem 0;
 }
 @media screen and (max-width: 768px) {
   .home-section {
-    padding: 60px 0 60px 0;
+    padding: 0.6rem 0 0.6rem 0;
   }
 }
 
@@ -199,10 +202,10 @@ blockquote p:last-child {
 }
 
 .section-heading p {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
   font-size: 1.1rem;
-  color: #b2b2b2;
+  color: #777;
 }
 
 /*************************************************
@@ -262,11 +265,11 @@ blockquote p:last-child {
 }
 
 .big-icon {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 ul.ul-interests li {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 ul.ul-edu {
@@ -283,11 +286,11 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
   color: rgba(0,0,0,0.6);
 }
 
@@ -345,7 +348,7 @@ ul.share li:hover .fa {
  **************************************************/
 
 .article-title {
-  font-size: 1.75rem;
+  /* font-size: 1.25rem; */
 }
 
 .article-title a {
@@ -447,7 +450,7 @@ ul.share li:hover .fa {
 }
 
 .pub-list-item {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .pub-list-item .pub-abstract {
@@ -455,7 +458,8 @@ ul.share li:hover .fa {
 }
 
 .pub-list-item .pub-authors {
-  line-height: normal;
+  /* line-height: normal; */
+  padding-top: 10px;
   font-style: normal;
   font-size: 1rem;
   color: #3170A5;
@@ -651,7 +655,7 @@ nav#navbar-main li {
 
 .navbar-default .navbar-brand {
   text-transform: uppercase;
-  font-weight: bold;
+  /*font-weight: bold; */
   font-size: 1.2em;
   color: #2b2b2b;
 }

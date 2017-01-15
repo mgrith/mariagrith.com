@@ -5,9 +5,12 @@
 date = "2016-11-12T00:00:00"
 draft = false
 
-title = "Publications, Working Papers, Book Chapters"
+title = "Publication List"
 subtitle = ""
 widget = "publications"
+
+pub_titles = ["Publications", "Working Papers", "Book Chapters"]
+# TODO loop over categories, use index to look up which pub to include
 
 # Order that this section will appear in.
 weight = 20

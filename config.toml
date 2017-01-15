@@ -1,6 +1,6 @@
 baseurl = "http://mariagrith.com"
 title = "Maria Grith"
-copyright = "&copy; 2016 Maria Grith"
+copyright = "&copy; 2017 Maria Grith"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
@@ -21,12 +21,13 @@ googleAnalytics = ""
   address = """
   Ladislaus von Bortkiewicz Chair of Statistics<br>
   School of Business and Economics<br>
-  Humboldt-Universität zu Berlin<br>
+  Humboldt University of Berlin<br>
   Spandauer Str.1<br>
-  D-10178 Berlin, Germany
+  10178 Berlin, Germany
   """
 
-  phone = "+49 (0) 30 2093-5625"
+  phone = ""
+  # +49 (0) 30 2093-5625
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -40,7 +41,7 @@ googleAnalytics = ""
   math = false
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -104,6 +105,11 @@ googleAnalytics = ""
   url = "#publications"
   weight = 2
 
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 3
+
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -118,8 +124,3 @@ googleAnalytics = ""
 #   name = "Teaching"
 #   url = "#teaching"
 #   weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6

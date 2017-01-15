@@ -9,7 +9,7 @@ enableEmoji = true
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-90427404-1"
 
 
 [params]

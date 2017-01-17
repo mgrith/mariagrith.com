@@ -3,7 +3,7 @@ title = "Option Implied Stock Return Distribution"
 selected = false
 
 authors = [
-  "Ioana Andreea Duca"
+  "Ioana Andreea Duca",
   "Maria Grith",
   "Wolfgang K. Härdle"
 ]

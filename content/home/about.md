@@ -47,4 +47,4 @@ My work is concerned with developing statistical methods to study dynamic high-d
 
 This is my [curriculum vitae](Curriculum Vitae - Grith.pdf).
 
-News: I will be joining the Department of Econometrics at Erasmus University Rotterdam as an Assistant Professor in Fall 2017.
+I will join the Department of Econometrics at Erasmus University Rotterdam as an Assistant Professor in Fall 2017.

@@ -46,3 +46,5 @@ I am a Hilda Geiringer postdoctoral fellow in statistics and economics at the Hu
 My work is concerned with developing statistical methods to study dynamic high-dimensional data settings and relies on nonparametric and semiparametric approaches, as well as graphical models. The applications of the research lie mostly in the field of finance, where I am particularly interested in asset pricing and systemic risk.
 
 This is my [curriculum vitae](Curriculum Vitae - Grith.pdf).
+
+News: I will be joining the Department of Econometrics at Erasmus University Rotterdam as an Assistant Professor in Fall 2017.

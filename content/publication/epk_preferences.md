@@ -8,7 +8,7 @@ authors = [
   "Volker Krätschmer"
 ]
 
-publication = "*Review of Finance*, 2016: 1-30"
+publication = "*Review of Finance*, 2017: 21 (1): 269-298"
 publication_short = ""
 date = "2016-02-11T12:00:00"
 abstract_short = ""
@@ -16,7 +16,7 @@ abstract = "Supported by several recent investigations, the empirical pricing ke
 
 pub_type = "Publication"
 
-url_pdf = "http://rof.oxfordjournals.org/content/early/2016/02/11/rof.rfv062.full.pdf+html"
+url_pdf = "https://academic.oup.com/rof/article/21/1/269/2669990/Reference-Dependent-Preferences-and-the-Empirical?keytype=ref&ijkey=z3IqDxwOAfvIlzI"
 url_code = ""
 url_project = ""
 url_dataset = ""

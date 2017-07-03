@@ -17,13 +17,13 @@ googleAnalytics = "UA-90427404-1"
   role = "Postdoctoral Fellow"
   organization = "Humboldt University of Berlin"
   avatar = "portrait.jpg"
-  email = "maria.grith@hu-berlin.de"
+  email = "grith@ese.eur.nl"
   address = """
-  Ladislaus von Bortkiewicz Chair of Statistics<br>
-  School of Business and Economics<br>
-  Humboldt University of Berlin<br>
-  Spandauer Str.1<br>
-  10178 Berlin, Germany
+Econometric Institute<br>
+Erasmus University Rotterdam<br>
+Burg Oudlaan 50<br>
+3000 DR Rotterdam<br>
+The Netherlands
   """
 
   phone = ""
@@ -69,7 +69,7 @@ googleAnalytics = "UA-90427404-1"
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:maria.grith@hu-berlin.de"
+    link = "mailto:grith@ese.eur.nl"
 
   # [[params.social]]
   #   icon = "twitter"

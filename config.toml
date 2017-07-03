@@ -14,8 +14,8 @@ googleAnalytics = "UA-90427404-1"
 
 [params]
   name = "Maria Grith"
-  role = "Postdoctoral Fellow"
-  organization = "Humboldt University of Berlin"
+  role = "Assistant Professor"
+  organization = "Erasmus University Rotterdam"
   avatar = "portrait.jpg"
   email = "grith@ese.eur.nl"
   address = """

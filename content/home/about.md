@@ -41,10 +41,8 @@ weight = 0
 
 ### About me
 
-I am a Hilda Geiringer postdoctoral fellow in statistics and economics at the Humboldt University of Berlin. Prior to this appointment, I was a Warren Center postdoctoral fellow at the University of Pennsylvania. I received my Ph.D. in Economics in 2013 from the Humboldt University of Berlin.
+I am an Assistant Professor in Econometrics at the Erasmus School of Economics. I received my Ph.D. in Economics in 2013 from the Humboldt University of Berlin. Prior to joining Erasmus, I had appointments as a Hilda Geiringer postdoctoral fellow at the Humboldt University of Berlin, a Warren Center postdoctoral fellow at the University of Pennsylvania and a visitig postodctoral fellow at Singapore Management University.
 
 My work is concerned with developing statistical methods to study dynamic high-dimensional data settings and relies on nonparametric and semiparametric approaches, as well as graphical models. The applications of the research lie mostly in the field of finance, where I am particularly interested in asset pricing and systemic risk.
 
 This is my [curriculum vitae](Curriculum Vitae - Grith.pdf).
-
-I will join the Department of Econometrics at Erasmus University Rotterdam as an Assistant Professor in Fall 2017.

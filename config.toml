@@ -24,12 +24,10 @@ Erasmus University Rotterdam<br>
 Burg Oudlaan 50<br>
 3000 DR Rotterdam<br>
 The Netherlands
+Room H11-30
+
   """
-  room = "Room H11-30"
-  phone = "
-T: +31 10 408 1339<br>
-F: +31 10 408 9162"
-  # +49 (0) 30 2093-5625
+  phone = "+31 10 408 1339"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""

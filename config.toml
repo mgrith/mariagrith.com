@@ -1,6 +1,6 @@
 baseurl = "http://www.mariagrith.com"
 title = "Maria Grith"
-copyright = "&copy; 2017 Maria Grith"
+copyright = "&copy; 2018 Maria Grith"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true

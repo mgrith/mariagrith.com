@@ -12,4 +12,4 @@ deploy:
         path:    "public"
         token:   "$GH_PAGES_TOKEN"
         domain:  "www.mariagrith.com"
-        comment: "deploy"
+        comment: "deploy test"

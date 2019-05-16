@@ -6,11 +6,9 @@ build:
         flags: --buildDrafts=false -v
         disable_pygments: true
 
-
 deploy:
   steps:
-    - 7h3laughingman/gh-pages@0.4.5:
-        path:    public
-        domain:  www.mariagrith.com
-        token:   $GIT_TOKEN
-        comment: "wercker deploy"
+    - uetchy/gh-pages:
+        token: $GITHUB_TOKEN
+        path: public
+        domain: www.mariagrith.com

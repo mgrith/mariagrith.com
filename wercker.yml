@@ -11,5 +11,4 @@ deploy:
     - melvincornelissen/gh-pages@0.4.4:
         path:    public
         domain:  www.mariagrith.com
-        token:   $GIT_TOKEN
         comment: "deploy"

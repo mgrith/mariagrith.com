@@ -10,5 +10,6 @@ deploy:
   steps:
     - melvincornelissen/gh-pages@0.4.4:
         path:    public
+        token:   $WERCKER_GH_PAGES_TOKEN
         domain:  www.mariagrith.com
         comment: "deploy"

@@ -8,7 +8,7 @@ authors = [
   "Juhyun Park"
 ]
 
-publication = "*Journal of Financial Econometrics*, 2013: 11 (2): 370-399"
+publication = "*Journal of Financial Econometrics*, 2013: 11 (2), 370-399"
 publication_short = ""
 date = "2012-11-18T12:00:00"
 abstract_short = ""

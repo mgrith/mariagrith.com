@@ -8,7 +8,7 @@ authors = [
   "Melanie Schienle"
 ]
 
-publication = "In *Handbook of Computational Finance*, Jin-Chuan Duan, James E. Gentle, and Wolfgang Härdle (eds). Springer Verlag, 2011, pp 277-305"
+publication = "In *Handbook of Computational Finance*, Jin-Chuan Duan, James E. Gentle, and Wolfgang Härdle (eds). Springer Verlag, 2011, 277-305"
 publication_short = ""
 date = "2011-07-10T12:00:01"
 abstract_short = ""

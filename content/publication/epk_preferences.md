@@ -8,7 +8,7 @@ authors = [
   "Volker Krätschmer"
 ]
 
-publication = "*Review of Finance*, 2017: 21 (1): 269-298"
+publication = "*Review of Finance*, 2017: 21 (1), 269-298"
 publication_short = ""
 date = "2016-02-11T12:00:00"
 abstract_short = ""

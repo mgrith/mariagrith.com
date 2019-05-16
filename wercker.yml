@@ -8,8 +8,9 @@ build:
 
 deploy:
   steps:
-    - melvincornelissen/gh-pages@0.4.4:
-        path:    "public"
-        domain:  "www.mariagrith.com"
-        token:   $GIT_TOKEN
-        comment: "deploy from wercker"
+    - install-packages:
+        packages: git ssh-client liberror-perl
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: www.mariagrith.com
+        basedir: public

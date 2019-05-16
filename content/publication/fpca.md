@@ -9,7 +9,7 @@ authors = [
   "Heiko Wagner"
 ]
 
-publication = "Discussion Paper. Submitted to *Statistica Sinica*, 2016"
+publication = "*Statistica Sinica*, 2018: 28, 2469-2496"
 publication_short = ""
 date = "2016-09-06T12:00:00"
 abstract_short = ""

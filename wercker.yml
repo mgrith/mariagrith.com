@@ -13,3 +13,4 @@ deploy:
         path:    public
         domain:  www.mariagrith.com
         token:   $GIT_TOKEN
+        comment: "wercker deploy"

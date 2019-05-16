@@ -7,7 +7,7 @@ authors = [
   "Volker Krätschmer"
 ]
 
-publication = "In *Handbook of Computational Finance*, Jin-Chuan Duan, James E. Gentle, and Wolfgang Härdle (eds), Springer Verlag, 2011, pp 253-275"
+publication = "In *Handbook of Computational Finance*, Jin-Chuan Duan, James E. Gentle, and Wolfgang Härdle (eds), Springer Verlag, 2011, 253-275"
 publication_short = ""
 date = "2011-07-10T12:00:00"
 abstract_short = ""

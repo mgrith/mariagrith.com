@@ -8,8 +8,7 @@ build:
 
 deploy:
   steps:
-    - melvincornelissen/gh-pages@0.4.4:
+    - wt365/gh-pages@0.3.4:
         path:    "public"
         token:   "$GH_PAGES_TOKEN"
         domain:  "www.mariagrith.com"
-        comment: "deploy test"

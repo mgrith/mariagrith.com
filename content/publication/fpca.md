@@ -17,7 +17,7 @@ abstract = "We propose two methods based on the functional principal component a
 
 pub_type = "Publication"
 
-url_pdf = "http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-033.pdf"
+url_pdf = "http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N514/J28N514.html"
 url_code = "https://github.com/QuantLet/FPCA/tree/master/"
 url_project = ""
 url_dataset = ""

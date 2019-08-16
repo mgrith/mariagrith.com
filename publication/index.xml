@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Maria Grith</title>
+    <link>http://www.mariagrith.com/publication/</link>
+    <description>Recent content in Publications on Maria Grith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Maria Grith</copyright>
+    <lastBuildDate>Fri, 06 Jan 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mariagrith.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Analysis of Multivariate Time Series Using Wavelet Dependence Graphs</title>
+      <link>http://www.mariagrith.com/publication/gm_ts/</link>
+      <pubDate>Fri, 06 Jan 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/gm_ts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Principal Component Analysis for Derivatives of Multivariate Curves</title>
+      <link>http://www.mariagrith.com/publication/fpca/</link>
+      <pubDate>Tue, 06 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/fpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference-Dependent Preferences and the Empirical Pricing Kernel Puzzle</title>
+      <link>http://www.mariagrith.com/publication/epk_preferences/</link>
+      <pubDate>Thu, 11 Feb 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/epk_preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option Implied Stock Return Distribution</title>
+      <link>http://www.mariagrith.com/publication/ml_pk/</link>
+      <pubDate>Wed, 06 Jan 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/ml_pk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Invariant Modeling of Pricing Kernels and Risk Aversion</title>
+      <link>http://www.mariagrith.com/publication/pk_shape_invariant_modeling/</link>
+      <pubDate>Sun, 18 Nov 2012 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/pk_shape_invariant_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Estimation of Risk-Neutral Densities</title>
+      <link>http://www.mariagrith.com/publication/risk_neutral_density_nonparametric/</link>
+      <pubDate>Sun, 10 Jul 2011 12:00:01 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/risk_neutral_density_nonparametric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric Estimation of Risk Neutral Density Functions</title>
+      <link>http://www.mariagrith.com/publication/risk_neutral_density_parametric/</link>
+      <pubDate>Sun, 10 Jul 2011 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/publication/risk_neutral_density_parametric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

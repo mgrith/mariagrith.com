@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Maria Grith</title>
+    <link>http://www.mariagrith.com/home/</link>
+    <description>Recent content in Homes on Maria Grith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Maria Grith</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mariagrith.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.mariagrith.com/home/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/home/about/</guid>
+      <description>About me I am an Assistant Professor in Econometrics at the Erasmus School of Economics. I received my Ph.D. in Economics in 2013 from the Humboldt University of Berlin. Prior to joining Erasmus, I had postdoctoral appointments at Humboldt University of Berlin, University of Pennsylvania and Singapore Management University.
+My work is concerned with developing statistical methods to study dynamic high-dimensional data settings and relies on nonparametric and semiparametric approaches, as well as graphical models.</description>
+    </item>
+    
+    <item>
+      <title>Selected Work</title>
+      <link>http://www.mariagrith.com/home/publications_selected/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication List</title>
+      <link>http://www.mariagrith.com/home/publications/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.mariagrith.com/home/contact/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mariagrith.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

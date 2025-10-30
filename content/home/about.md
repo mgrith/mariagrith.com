@@ -41,7 +41,7 @@ weight = 1
 
 ### About me
 
-I am an Associate Professor in the Finance 3 Department of Neoma Business School. I earned my Ph.D. in Economics from Humboldt University of Berlin. Afterward, I had postdoctoral appointments at Humboldt University of Berlin, the University of Pennsylvania, and Singapore Management University. Most recently, I worked as an Assistant Professor in Econometrics at Erasmus School of Economics.
+I am an Associate Professor in the Finance Department of Neoma Business School. I earned my Ph.D. in Economics from Humboldt University of Berlin. Afterward, I had postdoctoral appointments at Humboldt University of Berlin, the University of Pennsylvania, and Singapore Management University. Most recently, I worked as an Assistant Professor in Econometrics at Erasmus School of Economics.
 
 My work focuses on developing statistical methods to study dynamic high-dimensional data settings. I utilize nonparametric statistics, functional data analysis, machine learning, and graphical models in my research. My primary applications are in finance, with a particular interest in asset pricing, option pricing, risk management, and digital finance.
 

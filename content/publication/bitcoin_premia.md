@@ -17,7 +17,7 @@ abstract = "Based on options and realized returns, we analyze risk premia in the
 
 pub_type = "Publication"
 
-url_pdf = "https://arxiv.org/abs/2410.15195"
+url_pdf = "https://ssrn.com/abstract=5374295"
 url_code = "https://github.com/wang-zjin/BTC-premia"
 url_project = ""
 url_dataset = ""

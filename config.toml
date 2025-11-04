@@ -14,18 +14,19 @@ googleAnalytics = ""
 
 [params]
   name = "Maria Grith"
-  role = "Assistant Professor"
-  organization = "Erasmus University Rotterdam"
+  role = "Associate Professor"
+  organization = "Neoma Business School"
   avatar = "mg20241216.png"
-  email = "grith@ese.eur.nl"
+  email = "maria.grith@neoma-bs.fr"
   address = """
-Erasmus University Rotterdam<br>
-Econometric Institute<br>
-Room H11-30<br>
+Neoma Business School<br>
+Finance Department<br>
+Reims - Rouen - Paris<br>
 <br>
-Burg Oudlaan 50<br>
-3000 DR Rotterdam<br>
-The Netherlands
+Reims Campus
+59 Rue Pierre Taittinger - BP 302<br>
+51061 Reims Cedex<br>
+France
 
 
   """

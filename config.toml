@@ -17,6 +17,7 @@ googleAnalytics = ""
   role = "Associate Professor"
   organization = "Neoma Business School"
   avatar = "mg20241216.png"
+  shape = "square"
   email = "maria.grith@neoma-bs.fr"
   address = """
 Neoma Business School<br>

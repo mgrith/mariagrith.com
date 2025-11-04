@@ -23,14 +23,14 @@ Neoma Business School<br>
 Finance Department<br>
 Reims - Rouen - Paris<br>
 <br>
-Reims Campus
-59 Rue Pierre Taittinger - BP 302<br>
-51061 Reims Cedex<br>
+Reims Campus <br>
+59 Rue Pierre Taittinger<br>
+BP 302 - 51061 Reims Cedex<br>
 France
 
 
   """
-  phone = "+31 10 408 1339"
+  phone = "+33 26 77 47 47"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
